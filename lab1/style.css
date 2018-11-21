@@ -1,4 +1,29 @@
+body
+{
+  font-family:sans-serif;
+}
+
+h1, h2
+{
+  color: gray
+}
+
 h1
+{
+  border-bottom: 1px solid black;
+}
+
+em
+{
+  color:red;
+}
+
+p
+{
+  font-family:serif;
+}
+
+.special
 {
   color: red;
 }
